@@ -3,7 +3,7 @@ body {
     background: rgb(203, 203, 246);
     
 }
-
+​
 header {
     text-align: center;
 }
@@ -18,9 +18,20 @@ header {
     font-size: 19px;
     margin: 10px;
     cursor: pointer;
-    float: right;
+   width: 100%;
 }
-
+​
+.score-area img {
+    position: relative;
+    width: 80%;
+    margin-left: 10%;
+}
+.score-area p {
+    width: 90%;
+    margin-left: 5%;
+    color: black;
+}
+​
 .feedback {
    
     background-color: none;
@@ -34,7 +45,7 @@ header {
     
     
 }
-
+​
 h1 {
     margin-top: 20px;
     text-align: center;
@@ -44,8 +55,8 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 4px;
 }
-
-
+​
+​
 footer {
     height: 80px;
     color: rgba(0, 0, 0, 0.344);
@@ -67,15 +78,7 @@ footer {
     cursor: pointer;
     float: right;
 }
-
+​
 .heading {
     float: left;
-}
-
-#game-logo {
-    height: 600px;
-    width: 100%;
-    background: url('../images/hand-rock-paper-scissors\ 1.png') no-repeat center center;
-
-
 }
