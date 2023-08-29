@@ -1,6 +1,7 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background: rgb(203, 203, 246);
+    overflow-x: hidden;
     
 }
 ​
@@ -62,3 +63,12 @@ footer {
 }
    
 
+.hide {
+    display: none;
+}
+
+#play-image
+{
+    position: relative;
+    width: 60%;
+}
