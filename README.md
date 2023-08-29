@@ -37,15 +37,16 @@ No unfixed bugs
 
 **HTML**
 No errors were returned when passing through the official W3C validator
-[https://validator.w3.org/](https://www.freeformatter.com/)
+[https://validator.w3.org/]
 
-<img width="977" alt="Снимок экрана 2023-08-29 в 19 36 52" src="https://github.com/Ihor2227/rock_paper_scissors/assets/113597463/8e2ed1fa-66dc-4742-8469-18676a4946d0">
+<img width="1253" alt="Снимок экрана 2023-08-29 в 19 48 17" src="https://github.com/Ihor2227/rock_paper_scissors/assets/113597463/2eca7484-16e7-4ef0-a8a1-d8bd4a44e63e">
 
 
 
 **CSS**
 No errors were found when passing through the official (Jigsaw) validator
 https://jigsaw.w3.org/css-validator/
+<img width="1245" alt="Снимок экрана 2023-08-29 в 19 50 34" src="https://github.com/Ihor2227/rock_paper_scissors/assets/113597463/c4222d12-0c36-4d6a-8829-f956e3693ee4">
 
 **Accessibility**
    I confirmed that the colours and fonts chosen are easy to read and accessible  by running it through lighthouse in dev tools
