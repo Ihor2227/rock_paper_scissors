@@ -8,14 +8,12 @@ let winner = "";
 function computerPlay (){
     const items = Array("rock", "paper", "scissors");
     const item = items[Math.floor(Math.random()*items.length)];
-    console.log(`computer plays ${item}`);
     return item;
 }
 
 
 function userPlay(event){
     const buttonClicked = event.target;
-    console.log(`User plays ${buttonClicked.id}`);
     userPlayed = buttonClicked.id;
     computerPlayed = computerPlay();
     winner = checkWinner(computerPlayed, userPlayed);
@@ -31,51 +29,43 @@ function updateScreen(){
 }
 
 function checkWinner(computerPlayed, userPlayed){
+    document.getElementById('results-area').classList.remove('hide');
     if (userPlayed === "rock"){
         if (computerPlayed ==="rock"){
-            console.log("Its a tie");
             return 'tie';
         }
         if (computerPlayed ==="paper"){
-            console.log("Computer wins");
             computerScore = computerScore + 1;
             return 'computer';
         }
         if (computerPlayed ==="scissors"){
-            console.log("User wins");
             userScore = userScore + 1;
             return 'user';
         }
     }
     if (userPlayed === "paper"){
         if (computerPlayed ==="rock"){
-            console.log("User wins");
             userScore = userScore + 1;
             return 'user';
         }
         if (computerPlayed ==="paper"){
-            console.log("Its a tie");
             return 'tie';
         }
         if (computerPlayed ==="scissors"){
-            console.log("Computer wins");
             computerScore = computerScore + 1;
             return 'computer';
         }
     }
     if (userPlayed === "scissors"){
         if (computerPlayed ==="rock"){
-            console.log("Computer wins");
             computerScore = computerScore + 1;
             return 'computer';
         }
         if (computerPlayed ==="paper"){
-            console.log("User wins");
             userScore = userScore + 1;
             return 'user';
         }
         if (computerPlayed ==="scissors"){
-            console.log("Its a tie");
             return 'tie';
         }
     }
