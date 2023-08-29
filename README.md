@@ -50,7 +50,7 @@ Accessibility
 Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows: In the GitHub repository, navigate to the Settings tab From the source section drop-down menu, select the Master Branch Once the master branch has been selected, the page provides the link to the completed website.
 
-The live link can be found here - https://github.com/Ihor2227/rock_paper_scissors.git
+
 
 Media
 The image in the header was taken from Pexels
