@@ -37,7 +37,11 @@ No unfixed bugs
 
 **HTML**
 No errors were returned when passing through the official W3C validator
-https://validator.w3.org/
+[https://validator.w3.org/](https://www.freeformatter.com/)
+
+<img width="977" alt="Снимок экрана 2023-08-29 в 19 36 52" src="https://github.com/Ihor2227/rock_paper_scissors/assets/113597463/8e2ed1fa-66dc-4742-8469-18676a4946d0">
+
+
 
 **CSS**
 No errors were found when passing through the official (Jigsaw) validator
