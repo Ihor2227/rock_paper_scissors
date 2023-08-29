@@ -13,7 +13,8 @@ includes 3 buttons "rock", "paper" and "scissors" for player choice.
 
 
 **The Score section displayed the score for the player and computer.**
-<img width="1227" alt="Снимок экрана 2023-08-29 в 12 49 47" src="https://github.com/Ihor2227/rock_paper_scissors/assets/113597463/17d06ddd-eaa2-46e5-bb22-200c6c49b090">
+
+<img width="1243" alt="Снимок экрана 2023-08-29 в 19 34 37" src="https://github.com/Ihor2227/rock_paper_scissors/assets/113597463/b95a40ea-e7a5-4c7e-832f-e2276855cb44">
 
 **The Rules section includes the rules of the game.**
 <img width="1214" alt="Снимок экрана 2023-08-29 в 12 50 15" src="https://github.com/Ihor2227/rock_paper_scissors/assets/113597463/51ef6dcd-7858-4402-b8d6-b4ed72e3e80e">
