@@ -45,7 +45,8 @@ https://jigsaw.w3.org/css-validator/
 **Accessibility**
    I confirmed that the colours and fonts chosen are easy to read and accessible  by running it through lighthouse in dev tools
    
-<img width="572" alt="Снимок экрана 2023-08-29 в 12 53 06" src="https://github.com/Ihor2227/rock_paper_scissors/assets/113597463/12566bd4-7b8e-4d51-98b9-77e6ac2e9918">
+<img width="580" alt="Снимок экрана 2023-08-29 в 19 32 30" src="https://github.com/Ihor2227/rock_paper_scissors/assets/113597463/ef419f7b-b46d-4222-8e19-513d72ee41f7">
+
 
 
 **Deployment**
